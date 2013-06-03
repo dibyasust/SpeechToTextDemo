@@ -52,7 +52,7 @@ public class MainActivity extends Activity {
 		});
 
 	}
-
+//*helooooooooooooooooooooooooooooooooooooooooooooooooo*//
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.activity_main, menu);
