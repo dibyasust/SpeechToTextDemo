@@ -1,0 +1,25 @@
+office day
+
+07.00 am to 07.30 am -> up/brush/morning chant;
+07.30 am to 08.00 am -> exercise;
+08.00 am to 09.00 am -> programming/reading;
+09.00 am to 10.00 am -> coming office;
+10.00 am to 06.00 pm -> office;
+06.30 pm to 08.00 pm -> going mess;
+08.00 pm to 09.00 pm -> washing/bath/rest/eat;
+09.00 pm to 11.00 pm -> reading/programming;
+11.00 pm to 07.00 am -> sleep;
+
+off day
+
+09.00 am to 09.15 am -> up/brush/morning chant;
+09.15 am to 09.30 am -> exercise;
+09.30 am to 12.30 pm -> reading/programming;
+12.30 pm to 02.30 pm -> bath/eat/rest;
+02.30 pm to 05.30 pm -> programming/reading;
+05.30 pm to 08.00 pm -> rest/entertainment;
+08.00 pm to 11.00 pm -> reading/programming;
+11.00 pm to 09.00 am -> sleep;
+
+
+sylp.dibya
